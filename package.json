@@ -1,6 +1,6 @@
 {
   "name": "tab-control-tool",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "dom tab control tool",
   "main": "tab-control-tool.js",
   "scripts": {
@@ -16,5 +16,17 @@
     "add-css-text": "^1.0.2",
     "ele-id": "^1.0.2",
     "get-element-by-id": "^1.0.2"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adf0001/tab-control-tool.git"
+  },
+  "bugs": {
+    "url": "https://github.com/adf0001/tab-control-tool/issues"
+  },
+  "homepage": "https://github.com/adf0001/tab-control-tool#readme"
 }
